@@ -26,9 +26,15 @@ By modeling an AI system as a graph:
 
 ## 📂 Repository Structure
 Agentic-graphs-practice/
+
 │
+
 ├── examples/ # Example agent graph workflows
+
 ├── nodes/ # Custom node functions (math ops, API calls, etc.)
+
 ├── state/ # AgentState definitions
+
 ├── main.py # Entry point to run the graphs
+
 └── README.md # This file
